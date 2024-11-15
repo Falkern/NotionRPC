@@ -19,7 +19,7 @@ NotionRPC is a Node.js script that updates your Discord Rich Presence status bas
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/NotionRPC.git
+   git clone https://github.com/Falkern/NotionRPC.git
    cd NotionRPC
    ```
 
