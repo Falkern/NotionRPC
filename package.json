@@ -1,5 +1,5 @@
 {
-  "name": "notion-discord-rich-presence",
+  "name": "NotionRPC",
   "version": "1.0.0",
   "description": "Script that creates a Notion Rich Presence for Discord",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SweetSofiMC/notion-discord-rich-presence.git"
+    "url": "git+https://github.com/Falkern/NotionRPC.git"
   },
   "keywords": [
     "Notion",
@@ -17,12 +17,12 @@
     "Presence",
     "RCP"
   ],
-  "author": "SweetSofiMC",
+  "author": "FALKERN",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SweetSofiMC/notion-discord-rich-presence/issues"
+    "url": "https://github.com/Falkern/NotionRPC.gitissues"
   },
-  "homepage": "https://github.com/SweetSofiMC/notion-discord-rich-presence#readme",
+  "homepage": "https://github.com/Falkern/NotionRPC.git#readme",
   "dependencies": {
     "discord-rpc": "^4.0.1",
     "node-process-windows": "^0.0.2",
